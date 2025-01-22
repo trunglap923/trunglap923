@@ -32,9 +32,9 @@ I am a dedicated AI engineering student passionate about machine learning, deep 
 
 ## Projects
 
-<a href="https://github.com/trunglap923/License-Plate-Recognition-YOLO-PaddleOCR">
+<a href="https://github.com/trunglap923/YOLO-PlateOCR">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=License-Plate-Recognition-YOLO-PaddleOCR&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=YOLO-PlateOCR&theme=radical" />
 </a>
 
 ## Connect with Me
