@@ -10,7 +10,7 @@ I am a dedicated AI engineering student passionate about machine learning, deep 
 - 👯 I’m looking to collaborate on AI and machine learning projects
 - 🤔 I’m looking for help with research papers and AI competitions
 - 💬 Ask me about Python, TensorFlow, and neural networks
-- 📫 How to reach me: trunglap923@example.com
+- 📫 How to reach me: trunglap923@gmail.com
 - ⚡ Fun fact: I love solving puzzles and playing strategy games
 
 ## Skills
@@ -40,6 +40,11 @@ A deep learning model for classifying images into different categories using Con
 
 ### [Project 3: Data Analysis with Pandas](https://github.com/trunglap923/data-analysis)
 A comprehensive analysis of various datasets using Pandas to uncover insights and trends.
+
+<a href="https://github.com/vietnh1009/QuickDraw/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=License-Plate-Recognition-YOLO-PaddleOCR&theme=radical" />
+</a>
 
 ## Connect with Me
 
