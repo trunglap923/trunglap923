@@ -32,15 +32,6 @@ I am a dedicated AI engineering student passionate about machine learning, deep 
 
 ## Projects
 
-### [Project 1: AI-Powered Chatbot](https://github.com/trunglap923/ai-chatbot)
-An intelligent chatbot built using Python and TensorFlow that can understand and respond to user queries.
-
-### [Project 2: Image Classification Model](https://github.com/trunglap923/image-classification)
-A deep learning model for classifying images into different categories using Convolutional Neural Networks (CNNs) and Keras.
-
-### [Project 3: Data Analysis with Pandas](https://github.com/trunglap923/data-analysis)
-A comprehensive analysis of various datasets using Pandas to uncover insights and trends.
-
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=License-Plate-Recognition-YOLO-PaddleOCR&theme=radical" />
