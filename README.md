@@ -32,9 +32,14 @@ I am a dedicated AI engineering student passionate about machine learning, deep 
 
 ## Projects
 
-<a href="https://github.com/trunglap923/YOLO-PlateOCR">
+<a href="https://github.com/trunglap923/LPR_MultiServer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=YOLO-PlateOCR&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=LPR_MultiServer&theme=radical" />
+</a>
+
+<a href="https://github.com/trunglap923/BE_MyHeath">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=BE_MyHeath&theme=radical" />
 </a>
 
 ## Connect with Me
