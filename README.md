@@ -44,7 +44,7 @@ I am a dedicated AI engineering student passionate about machine learning, deep 
 
 <a href="https://github.com/trunglap923/Chest-Cancer-Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=Chest-Cancer-Classification&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=Chest-Cancer-Classification&theme=cobalt" />
 </a>
 
 ## Connect with Me
