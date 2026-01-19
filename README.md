@@ -42,6 +42,11 @@ I am a dedicated AI engineering student passionate about machine learning, deep 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=BE_MyHeath&theme=merko" />
 </a>
 
+<a href="https://github.com/trunglap923/Chest-Cancer-Classification">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trunglap923&repo=Chest-Cancer-Classification&theme=dracula" />
+</a>
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/trunglap923)
