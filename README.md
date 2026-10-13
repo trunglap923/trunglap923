@@ -122,23 +122,56 @@ under accuracy, latency, cost, and reliability constraints.
   <hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" />
 </div>
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/trunglap923">
+    <img
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=trunglap923&show_icons=true&theme=radical&cache_seconds=86400"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=trunglap923&theme=radical&cache_seconds=86400"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-### 🤝 Let's Connect
+  <h3>🤝 Let's Connect</h3>
 
-I'm open to opportunities and collaborations in  
-**AI Engineering · LLM Systems · RAG · GraphRAG · Speech AI**
+  <p>
+    I'm open to opportunities and collaborations in<br/>
+    <strong>AI Engineering · LLM Systems · RAG · GraphRAG · Speech AI</strong>
+  </p>
 
-<a href="https://www.linkedin.com/in/trunglap923">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/trunglap923">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<a href="mailto:trunglap923@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:trunglap923@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
 
-<a href="https://github.com/trunglap923">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/trunglap923">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
 </div>
