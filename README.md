@@ -36,8 +36,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Engineer** focused on building practical, end-to-end AI systems involving
-**Large Language Models, Speech AI, RAG, GraphRAG, and Computer Vision**.
+I am an **AI Engineer** focused on building end-to-end AI systems involving **Large Language Models**, **Speech AI**, **AI Agents**, **RAG**, and **GraphRAG**.
 
 My experience spans model fine-tuning, AI evaluation, system architecture, retrieval pipelines,
 and production-oriented AI services. I am particularly interested in understanding not only
@@ -66,7 +65,7 @@ under accuracy, latency, cost, and reliability constraints.
 ### 💼 Experience
 
 #### **VinSmart Future**
-*AI Engineer | May 2026 - Sep 2026*
+*AI Engineer | May 2026 - Present*
 
 * Built an **LLM guardrail system** for Jailbreak and Prompt Injection detection; fine-tuned Qwen3Guard with **QLoRA** and developed a hidden-state-based router, improving internal benchmark accuracy by **15.7%** and Jailbreak recall by **6.1%**.
 * Designed an end-to-end **Vietnamese AI Call Analysis system** covering ASR, speaker/role attribution, PII masking, ITN, and structured outputs for downstream analysis.
@@ -100,13 +99,15 @@ under accuracy, latency, cost, and reliability constraints.
   <hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" />
 </div>
 
+
 ### 🏆 Selected Projects
 
 | Project | Role & Impact |
 |:---|:---|
-| [**🧠 InsightAI: Agentic GraphRAG Knowledge Base**](YOUR_INSIGHTAI_REPOSITORY_URL) <br>*(Jun 2026 - Jul 2026)* | • Built a multi-document QA system combining **GraphRAG and semantic vector retrieval**.<br>• Designed a **LangGraph agentic workflow** with dynamic intent routing, LLM-as-a-Judge evaluation, and Web Search fallback.<br>• Enabled **multi-hop reasoning** by extracting and querying entity relationships with Neo4j.<br>• Built asynchronous document ingestion using **Celery, Redis, and Milvus**.<br>• [🎥 Demo](https://youtu.be/4k2dfErOcMM) |
-| [**🥗 AI Nutrition Assistant & Graph-based RAG Chatbot**](https://github.com/trunglap923/BE_MyHeath) <br>*(Oct 2025 - Dec 2025)* | • Built a personalized nutrition assistant using a **graph-based RAG workflow**.<br>• Fine-tuned **BGE-M3 embeddings with QLoRA and contrastive learning**.<br>• Integrated domain-specific semantic retrieval with **Elasticsearch**.<br>• Developed a constraint-based meal planning algorithm using **SLSQP**. |
-| [**🚗 Real-time Vehicle Tracking & LPR System**](https://github.com/trunglap923/LPR_MultiServer) <br>*(Mar 2025 - May 2025)* | • Built a real-time computer vision pipeline using **YOLOv8, DeepSORT, and PaddleOCR**.<br>• Designed a **microservices architecture** using gRPC and FastAPI.<br>• Implemented real-time communication using WebSocket.<br>• Achieved approximately **25 FPS** processing performance. |
+| [**🤖 IT Support Agent Platform**](https://github.com/trunglap923/IT-Support-Agent-Platform) <br>*(Sep 2026 - Oct 2026)* | • Built a **stateful AI IT support platform** using OpenAI Agents SDK and four-layer memory.<br>• Engineered **Hybrid RAG** with pgvector, BM25, weighted RRF, reranking, and citation validation.<br>• Achieved **0.7318 nDCG@10** on BEIR SciFact and **0.7860 nDCG@10** on adapted LoCoMo retrieval benchmarks.<br>• Integrated **MCP tools** with access control, human approval, and idempotent ticket creation.<br>• Implemented **durable agent execution** using Celery, Redis, and PostgreSQL. |
+| [**🧠 InsightAI: Agentic AI Learning Platform**](https://github.com/trunglap923/InsightAI) <br>*(Jun 2026 - Jul 2026)* | • Built an AI learning platform that converts videos, PDFs, and audio into lessons, summaries, quizzes, and mind maps.<br>• Designed **LangGraph Agentic RAG** with intent routing, context grading, and web search fallback.<br>• Implemented **Neo4j GraphRAG** and hybrid retrieval using Milvus and BM25.<br>• Developed asynchronous AI content pipelines with **Celery, Redis, and Whisper**.<br>• [🎥 Demo](https://youtu.be/4k2dfErOcMM) |
+| [**🥗 MyHealth: AI Nutrition & Meal Planning Platform**](https://github.com/trunglap923/BE_MyHeath) <br>*(Oct 2025 - Dec 2025)* | • Built an AI nutrition platform for personalized meal planning and dietary consultation.<br>• Designed **Agentic RAG** using LangGraph.<br>• Fine-tuned **BGE-M3** using QLoRA and contrastive learning, integrating embeddings with Elasticsearch.<br>• Developed an **SLSQP-based optimizer** for personalized meal planning. |
+
 
 <div align="center">
   <hr style="border: none; border-top: 1px solid #e5e7eb; width: 70%;" />
